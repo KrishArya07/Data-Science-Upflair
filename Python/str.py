@@ -11,9 +11,9 @@
 # print(name.strip())  # removes leading and trailing spaces
 # print(name.lstrip())  # removes leading spaces  
 # print(name.rstrip())  # removes trailing spaces
-#print(name.replace("Upflair", "Upflair pvt ltd"))  # replaces a substring with another
-#print(name.split("f"))  # splits the string into a list of words
-#print(name.partition("f"))  # splits the string into a tuple of three parts: before, separator, after
+# print(name.replace("Upflair", "Upflair pvt ltd"))  # replaces a substring with another
+# print(name.split("f"))  # splits the string into a list of words
+# print(name.partition("f"))  # splits the string into a tuple of three parts: before, separator, after
 # print(name.startswith("U"))  # checks if the string starts with a substring
 # print(name.endswith("t"))  # checks if the string ends with a substring
 # print(name.isalpha())  # checks if the string contains only alphabetic characters
